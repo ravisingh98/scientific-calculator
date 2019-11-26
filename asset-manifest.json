@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.458a1aaf.chunk.css",
-    "main.js": "/static/js/main.20129f81.chunk.js",
-    "main.js.map": "/static/js/main.20129f81.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2238a7c0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2238a7c0.js.map",
-    "static/js/2.eb3bec8d.chunk.js": "/static/js/2.eb3bec8d.chunk.js",
-    "static/js/2.eb3bec8d.chunk.js.map": "/static/js/2.eb3bec8d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.81bdfcfbd09301883363f9c7dfe1b2d6.js": "/precache-manifest.81bdfcfbd09301883363f9c7dfe1b2d6.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.458a1aaf.chunk.css.map": "/static/css/main.458a1aaf.chunk.css.map"
+    "main.css": "/scientific-calculator/static/css/main.458a1aaf.chunk.css",
+    "main.js": "/scientific-calculator/static/js/main.20129f81.chunk.js",
+    "main.js.map": "/scientific-calculator/static/js/main.20129f81.chunk.js.map",
+    "runtime-main.js": "/scientific-calculator/static/js/runtime-main.036667eb.js",
+    "runtime-main.js.map": "/scientific-calculator/static/js/runtime-main.036667eb.js.map",
+    "static/js/2.eb3bec8d.chunk.js": "/scientific-calculator/static/js/2.eb3bec8d.chunk.js",
+    "static/js/2.eb3bec8d.chunk.js.map": "/scientific-calculator/static/js/2.eb3bec8d.chunk.js.map",
+    "index.html": "/scientific-calculator/index.html",
+    "precache-manifest.d43dd6df49e4079e8032993aed24b5f8.js": "/scientific-calculator/precache-manifest.d43dd6df49e4079e8032993aed24b5f8.js",
+    "service-worker.js": "/scientific-calculator/service-worker.js",
+    "static/css/main.458a1aaf.chunk.css.map": "/scientific-calculator/static/css/main.458a1aaf.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.2238a7c0.js",
+    "static/js/runtime-main.036667eb.js",
     "static/js/2.eb3bec8d.chunk.js",
     "static/css/main.458a1aaf.chunk.css",
     "static/js/main.20129f81.chunk.js"
